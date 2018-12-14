@@ -1,2 +1,2 @@
 test de
-contribution sur GtHb
+contribution sur GitHub est une plateforme de partage pour développeurs
